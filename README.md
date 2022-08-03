@@ -21,7 +21,9 @@ and sliding window detection scheme.
 
 
 https://user-images.githubusercontent.com/11797397/182602596-fc882ce9-053d-4e94-8b64-3ff29d16ce1d.mp4
-Distinguish different parts of the face
+
+Distinguish different parts of the face.
+
 https://user-images.githubusercontent.com/11797397/182601597-f2caf58c-8b59-4861-bede-c1abb0ac4497.mp4
 
 <!---https://user-images.githubusercontent.com/11797397/182599917-e423460f-0590-4082-99e4-91bb98a59246.mp4--->
