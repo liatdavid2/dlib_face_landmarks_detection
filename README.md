@@ -15,6 +15,12 @@ Gradients (HOG) feature combined with a linear classifier, an image pyramid,
 and sliding window detection scheme. 
 
 
+Dlib includes two face detection methods built into the library:
+
+1. A HOG + Linear SVM face detector that is accurate and computationally efficient.
+2. A Max-Margin (MMOD) CNN face detector that is both highly accurate and very robust, capable of detecting faces from varying viewing angles, lighting conditions, and occlusion.
+
+
 
 
 
